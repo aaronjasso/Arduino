@@ -2,6 +2,8 @@
  * Copyright (c) 2010 Espressif System
  */
 
+#define USE_US_TIMER //Added by AMJ to enable microsecond timing 11.9.2016
+ 
 #ifndef _OSAPI_H_
 #define _OSAPI_H_
 
