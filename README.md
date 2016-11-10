@@ -1,3 +1,5 @@
+Forked to enable microsecond timing on the Arduino core for ESP8266 following [this guide](http://www.esp8266.com/viewtopic.php?p=13492).
+
 Arduino core for ESP8266 WiFi chip
 ===========================================
 
